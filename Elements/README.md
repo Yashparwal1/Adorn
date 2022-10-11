@@ -16,7 +16,7 @@
 
 
 
-- [Animated Highlighting Text-Fill](Highlight%20Text%20Fill)
+- [Animated Highlighting Text-Fill](Highlight-Text-Fill)
 
 - [Animated Social Media Icons](Animated%20Social)
 
